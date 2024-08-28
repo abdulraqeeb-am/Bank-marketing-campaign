@@ -66,4 +66,4 @@ Tools and Libraries:
 
 5.  Summary
 The analysis of the bank marketing campaign dataset uncovered significant insights into demographics, engagement trends, and the overall effectiveness of the campaign. The preprocessing steps, including the use of Excel for data cleaning and column management, were instrumental in transforming the raw data into a structured format suitable for in-depth analysis. Utilizing pandas for data manipulation and Matplotlib, for data visualization, the analysis identified critical trends, such as the moderate subscription rate, notably brief campaign interactions, and strong engagement among specific age groups and job categories. These findings offer valuable guidance for enhancing future marketing strategies and addressing potential data quality concerns.
-![Uploading image.png…]()
+
